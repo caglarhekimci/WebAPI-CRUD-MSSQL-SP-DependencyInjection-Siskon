@@ -1,0 +1,14 @@
+Merhaba Sayın Yetkili,
+
+Projeye .bak ile güncel SP'lerin yazıldığı database dosyasını ekledim.
+Web API kısmında ilgili filtreleme, CRUD işlemler gibi alanları ekledim. Bunları yaparken sizlerin de kullandığı gibi Dependency Injection'dan yararlandım.
+Aldığım hata yüzünden SP içerisine ve C# projesine loglama sistemi kurdum. Sonrasında hatanın sebebinin gözden kaçan bir durum olduğunu anladım ve kodlar
+içerisinde bunu açıklığa kavuşturdum. 
+
+Fakat React kısmına hiçbir ekleme yapamadım. Projeyi çalıştırmakta hata aldım ve npm yarn gibi dosyalarımın hatalı olduğunu gördüm. Artık çok
+geç olduğu için baştan kurulum yapmadım. Zaten React tarafımdaki bilgim C# veya sql tarafındaki kadar iyi değil.
+
+Vakit ayırıp kodlarımı incelediğiniz için teşekkür ederim.
+
+Saygılarımla,
+Çağlar HEKİMCİ
